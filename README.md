@@ -36,7 +36,7 @@ Users should be able to:
 ### Links
 
 
-- Live Site URL: [live site URL here]([https://single-page-component.vercel.app/])
+- Live Site URL: [(https://single-page-component.vercel.app/)]([https://single-page-component.vercel.app/])
 
 
 ### Built with
