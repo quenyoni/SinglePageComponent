@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Vercel]([https://single-page-component.vercel.app/)
+- Solution URL:[Live Solution](https://single-page-component.vercel.app/)
 
 
 ### Built with
