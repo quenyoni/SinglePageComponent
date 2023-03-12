@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@500;700&display=swap');
+
+body{
+
+ font-family: 'Public Sans', sans-serif;
+  font-size: 16px;
+  
+  height: 100vh;
+
+
+}
+
+
+
+.bd{
+  max-width:640px;
+ 
+
+}
+
+.g{
+  border-radius:50px;
+}
+
+
+.fwwe{
+  font-weight:400;
+}
+
+
+.fww2{
+  font-weight:700;
+}
+
+
